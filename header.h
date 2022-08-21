@@ -1,0 +1,1 @@
+void readInfo(int age, char hair_color[]);
